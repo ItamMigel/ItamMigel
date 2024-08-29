@@ -8,7 +8,7 @@
    </a>
 </p>
 
-### 👨‍🎓Additional Education
+### 👨‍🎓Education
 
 - [NUST MISIS](https://en.misis.ru/) (Since 2023)
 
@@ -23,7 +23,7 @@
 - **ML**: Scikit_learn, Catboost, Optuna
 - **Data Workflow**: Pandas, Numpy, Polars
 - **Deep Learning**: PyTorch, Keras
-- **Deployment**: Git
+- **Deployment**: Git, FastApi
 
 ### Key points
 
