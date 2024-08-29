@@ -22,8 +22,8 @@
 - **Programming**: Python
 - **ML**: Scikit_learn, Catboost, Optuna
 - **Data Workflow**: Pandas, Numpy, Polars
-- **Deep Learning**: PyTorch, Keras
-- **Deployment**: Git, FastApi
+- **Deep Learning**: PyTorch, Keras, NLP stack(langchain, nltk, transformers)
+- **Deployment**: Git, FastApi, Docker
 
 ### Key points
 
