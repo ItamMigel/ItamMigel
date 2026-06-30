@@ -5,6 +5,7 @@
 📧 [kalinin.aa2005018@gmail.com](mailto:kalinin.aa2005018@gmail.com)  
 📨 [Telegram @itammigel](https://t.me/itammigel)  
 💻 [GitHub: ItamMigel](https://github.com/ItamMigel)
+
 📍 [Актуальное резюме](https://drive.google.com/file/d/1Z6ujM3-8pTzoQout7DDSJDC1pVBN89hi/view?usp=share_link) 
 
 ---
