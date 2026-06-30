@@ -4,8 +4,7 @@
 📞 [+7 (903) 012-16-17](tel:+79030121617)  
 📧 [kalinin.aa2005018@gmail.com](mailto:kalinin.aa2005018@gmail.com)  
 📨 [Telegram @itammigel](https://t.me/itammigel)  
-💻 [GitHub: ItamMigel](https://github.com/ItamMigel)
-
+💻 [GitHub: ItamMigel](https://github.com/ItamMigel)<br>
 📍 [Актуальное резюме](https://drive.google.com/file/d/1Z6ujM3-8pTzoQout7DDSJDC1pVBN89hi/view?usp=share_link) 
 
 ---
